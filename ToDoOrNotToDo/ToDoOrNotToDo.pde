@@ -4,3 +4,8 @@ void setup() {
 print("fuck omi");
 print("fuck owen");  
 }
+
+void draw() {
+  
+  
+}
