@@ -1,1 +1,2 @@
-print("fuck omi")
+print("fuck omi");
+print("fuck owen");
