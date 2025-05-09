@@ -17,6 +17,8 @@
 
 public void addTasks_change1(GTextField source, GEvent event) { //_CODE_:addTasks:555906:
   println("addTasks - GTextField >> GEvent." + event + " @ " + millis());
+  String userInput = source.getText();
+  println("User entered: " + userInput);
 } //_CODE_:addTasks:555906:
 
 float currtime;
