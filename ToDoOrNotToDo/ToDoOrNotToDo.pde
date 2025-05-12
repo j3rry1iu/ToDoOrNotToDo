@@ -1,10 +1,11 @@
 import g4p_controls.*; 
 
 void setup() {
-  size(800, 800);
+  size(900, 600);
   createGUI(); 
   background(0);
-
+print("fuck omi");
+print("fuck owen");  
 }
 
 void draw() {
